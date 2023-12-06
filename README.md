@@ -1,14 +1,4 @@
-### Hi there 👋
-
-<!--
-**Ro-han12/Ro-han12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...<h1 align="center">Hi 👋, I'm ROHAN SRIDHAR</h1>
+<h1 align="center">Hi 👋, I'm ROHAN SRIDHAR</h1>
 <h3 align="center">Eager to delve into the realms of machine intelligence.</h3>
 
 - 🌱 I’m currently learning **DEEP LEARNING & LLMS**
@@ -31,9 +21,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ro-han12&show_icons=true&locale=en" alt="ro-han12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ro-han12&" alt="ro-han12" /></p>
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
