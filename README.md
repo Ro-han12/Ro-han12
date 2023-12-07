@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ROHAN SRIDHAR</h1>
-<h3 align="center">Eager to delve into the realms of machine intelligence.</h3>
+<h3 align="center">Eager to delve into the realms of machine intelligence & deep learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ro-han12&label=Profile%20views&color=0e75b6&style=flat" alt="ro-han12" /> </p>
 
