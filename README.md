@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ro-han12" alt="ro-han12" /></a> </p>
 
-- 🌱 I’m currently learning **DEEP LEARNING & LLMS**
+- 🌱 I’m currently indulged in DEEP LEARNING & LLMS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ro-han12](https://github.com/Ro-han12)
 
